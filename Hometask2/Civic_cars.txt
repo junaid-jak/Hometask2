@@ -1,0 +1,1 @@
+Car{id=2, make='Honda', model='Civic', yearOfManufacture=2015, color='Blue', price=25000.0, registrationNumber='ABC456'}
